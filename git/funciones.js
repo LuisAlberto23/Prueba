@@ -1,1 +1,3 @@
- 
+ const prueba=()=>{
+    return "hola"
+ }
